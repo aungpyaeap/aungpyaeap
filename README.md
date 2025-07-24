@@ -24,9 +24,6 @@ PhD in Computing student at Sunway University. Interested in teaching and doing 
 
 ## 🧠 Skills & Expertise
 
-### 🖥️ Programming Languages
-- Python, R, MATLAB, Java
-
 ### 📊 Mathematics & Analysis
 - Multivariate Data Analysis
 - Unsupervised Learning
