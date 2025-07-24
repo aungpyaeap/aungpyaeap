@@ -1,27 +1,6 @@
 # Aung Pyae
 PhD in Computing student at Sunway University. Interested in teaching and doing research.
 
-## 📚 Education
-
-- **PhD in Computing** (2023 – Ongoing)  
-  Sunway University, Malaysia  
-  Subject area: clustering, similarity measures.
-
-- **M.Sc. in Data Science and Business Analytics** (2018 – 2019)  
-  Asia Pacific University of Technology & Innovation (APU), Malaysia  
-  CGPA: 3.36 / 4.0
-
-- **B.Sc. (Hons.) in Business Information Technology** (2013 – 2017)  
-  University of Greenwich, UK  
-  GPA: 71.25% – First Class Honours
-
-- **Level 5 Diploma in Computing** (2014 – 2015)  
-  NCC Education, UK
-
-- **Level 4 Diploma in Computing** (2013 – 2014)  
-  NCC Education, UK
-
-
 ## 🧠 Skills & Expertise
 
 ### 📊 Mathematics & Analysis
