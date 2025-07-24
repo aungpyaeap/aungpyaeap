@@ -5,7 +5,7 @@ PhD in Computing student at Sunway University. Interested in teaching and doing 
 
 - **PhD in Computing** (2023 – Ongoing)  
   Sunway University, Malaysia  
-  Subject area: Clustering, Similarity Measures.
+  Subject area: clustering, similarity measures.
 
 - **M.Sc. in Data Science and Business Analytics** (2018 – 2019)  
   Asia Pacific University of Technology & Innovation (APU), Malaysia  
