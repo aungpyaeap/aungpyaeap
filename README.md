@@ -1,25 +1,24 @@
 # Aung Pyae
-PhD in Computing student at Sunway University. Interested in teaching and doing my research.
+PhD in Computing student at Sunway University. Interested in teaching and doing research.
 
 ## 📚 Education
 
-- **PhD in Computing** *(2023 – Ongoing)*  
+- **PhD in Computing** (2023 – Ongoing)  
   Sunway University, Malaysia  
-  Subject Area: Clustering, Similarity Measures  
-  Expected Completion: January 2026
+  Subject area: Clustering, Similarity Measures.
 
-- **M.Sc. in Data Science and Business Analytics** *(2018 – 2019)*  
+- **M.Sc. in Data Science and Business Analytics** (2018 – 2019)  
   Asia Pacific University of Technology & Innovation (APU), Malaysia  
   CGPA: 3.36 / 4.0
 
-- **B.Sc. (Hons.) in Business Information Technology** *(2013 – 2017)*  
+- **B.Sc. (Hons.) in Business Information Technology** (2013 – 2017)  
   University of Greenwich, UK  
   GPA: 71.25% – First Class Honours
 
-- **Level 5 Diploma in Computing** *(2014 – 2015)*  
+- **Level 5 Diploma in Computing** (2014 – 2015)  
   NCC Education, UK
 
-- **Level 4 Diploma in Computing** *(2013 – 2014)*  
+- **Level 4 Diploma in Computing** (2013 – 2014)  
   NCC Education, UK
 
 
@@ -47,4 +46,3 @@ PhD in Computing student at Sunway University. Interested in teaching and doing 
   *A Combined Distance Metric Approach with Weight Adjustment for Improving Mixed Data Clustering Quality*.  
   In **2024 IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET)** (pp. 183–188). IEEE.  
   [IEEE Xplore](https://doi.org/10.1109/IICAIET62352.2024.10730392)
-
