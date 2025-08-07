@@ -1,11 +1,11 @@
 # Aung Pyae
-PhD in Computing Student | Assistant Lecturer
+**PhD in Computing Student | Assistant Lecturer**
 
 I'm a PhD candidate at Sunway University, focusing on clustering algorithms and similarity measures. I love teaching and doing research. I enjoy tackling complex problems and clearly sharing ideas, whether in a classroom, research paper, or code.
 
 | **Category**   | **Skills**                                      |
 |----------------|------------------------------------------------------------|
-| **Mathematics**     | Multivariate Data Analysis, Unsupervised Learning         |
+| **Mathematics**     | Multivariate data Analysis, Unsupervised learning         |
 | **Academic**        | Research, Teaching, Consultation                          |
 | **Programming**     | R, MATLAB                                             |
 | **Frameworks**      | Spring Boot, Angular, Android Studio                      |
