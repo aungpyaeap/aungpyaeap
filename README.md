@@ -5,7 +5,7 @@ I'm a PhD candidate at Sunway University, focusing on clustering algorithms and 
 
 | **Category**   | **Skills**                                      |
 |----------------|------------------------------------------------------------|
-| **Mathematics**     | Multivariate data Analysis, Unsupervised learning         |
+| **Mathematics**     | Multivariate data analysis, Unsupervised learning         |
 | **Academic**        | Research, Teaching, Consultation                          |
 | **Programming**     | R, MATLAB                                             |
 | **Frameworks**      | Spring Boot, Angular, Android Studio                      |
