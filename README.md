@@ -10,4 +10,4 @@ I'm a PhD student at Sunway University, focusing on clustering and similarity me
 - **Frameworks**: Spring Boot, Angular, Android Studio
 
 ## Selected publications
-- Pyae, A., Low, Y.C., & Chua, H.N. (2024). A Combined Distance Metric Approach with Weight Adjustment For Improving Mixed Data Clustering Quality. *2024 IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET)*, 183-188. [IEEE Xplore](https://doi.org/10.1109/IICAIET62352.2024.10730392)
+- [Pyae, A., Low, Y.C., & Chua, H.N. (2024). A Combined Distance Metric Approach with Weight Adjustment For Improving Mixed Data Clustering Quality. *2024 IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET)*, 183-188.](https://doi.org/10.1109/IICAIET62352.2024.10730392)
