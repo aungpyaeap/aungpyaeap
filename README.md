@@ -5,8 +5,8 @@ I'm a PhD student at Sunway University, focusing on clustering and similarity me
 
 ## Skills
 - **Mathematics**: Multivariate data analysis, Unsupervised learning
-- **Academic**: Research, Teaching, Consultation
-- **Programming**: MATLAB
+- **Academic**: Research, Teaching
+- **Programming**: MATLAB, R
 - **Frameworks**: Spring Boot, Angular, Android Studio
 
 ## Selected publications
