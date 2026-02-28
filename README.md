@@ -4,7 +4,7 @@
 I'm a PhD student at Sunway University, focusing on clustering and distance metrics methods. I love teaching and doing research. I enjoy tackling complex problems and clearly sharing ideas, whether in a classroom, research paper, or code.
 
 ## Skills
-- **Mathematics**: Multivariate data analysis, Unsupervised learning
+- **Mathematics**: Multivariate data analysis, Unsupervised learning (Clustering, Distance Metric Optimisation)
 - **Academic**: Research, Teaching
 - **Numerical Programming**: MATLAB, R
 - **Development Frameworks**: Spring Boot, Angular, Android Studio
