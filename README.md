@@ -1,8 +1,6 @@
 # Aung Pyae
 **PhD in Computing Student | Assistant Lecturer**
 
-I'm a PhD student at Sunway University, focusing on clustering and distance metrics methods. I love teaching and doing research. I enjoy tackling complex problems and clearly sharing ideas, whether in a classroom, research paper, or code.
-
 ## Skills
 - **Mathematics**: Multivariate data analysis, Unsupervised learning (Clustering, Distance Metric Optimisation)
 - **Teaching**: Gradual Release of Responsibility, Scaffolded Instruction
