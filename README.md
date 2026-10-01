@@ -1,12 +1,24 @@
 # Aung Pyae
-**PhD in Computing Student | Assistant Lecturer**
 
-## Skills
-- **Mathematics**: Multivariate data analysis, Unsupervised learning (Clustering, Distance Metric Optimisation)
-- **Teaching**: Gradual Release of Responsibility, Scaffolded Instruction
-- **Numerical Programming**: MATLAB, R
-- **Development Frameworks**: Spring Boot, Angular, Android Studio
+**Assistant Lecturer** 
+Specialising in **Computational Statistics**, **Unsupervised Learning**, and **Distance Metric Optimisation **.
 
-## Notable publications
-- [Pyae, A., Low, Y. C., & Chua, H. N. (2025, August). A Distance Metric for Clustering Mixed Data Using Graph-Based Feature Influence Balancing Approach. In *2025 IEEE 7th Symposium on Computers & Informatics (ISCI)* (pp. 59-64). IEEE.](https://ieeexplore.ieee.org/document/11167150)
-- [Pyae, A., Low, Y. C., & Chua, H. N. (2024, August). A Combined Distance Metric Approach with Weight Adjustment For Improving Mixed Data Clustering Quality. In *2024 IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET)* (pp. 183-188). IEEE.](https://ieeexplore.ieee.org/document/10730392)
+---
+
+### 🔬 Research & Focus Areas
+- 🎯 **Primary Focus:** Mixed-data clustering, similarity metrics, and graph-based feature influence balancing.
+- 🎓 **Education:** PhD in Computing – Sunway University.
+- 🏆 **Recognition:** IEEE ISCI 2025 Best Paper Award & SCI 2025 Best Paper Award.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, R, Java, Kotlin, SQL, MATLAB, Bash
+- **Frameworks & Backend:** Spring Boot, Django REST Framework, Angular
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, Git, Linux
+
+---
+
+### 📑 Selected Research & Preprints
+- **ISCI 2025:** [A Distance Metric for Clustering Mixed Data Using Graph-Based Feature Influence Balancing Approach (Best Paper Award)](https://ieeexplore.ieee.org/document/11167150)
+- **IICAIET 2024:** [A Combined Distance Metric Approach with Weight Adjustment For Improving Mixed Data Clustering Quality](https://ieeexplore.ieee.org/document/10730392)
