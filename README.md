@@ -1,7 +1,5 @@
 # Aung Pyae
 
-**Assistant Lecturer** 
-
 Specialising in **Computational Statistics**, **Unsupervised Learning**, and **Distance Metric Optimisation**.
 
 ---
